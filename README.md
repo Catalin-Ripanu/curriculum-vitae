@@ -2,7 +2,7 @@
 
 My CV in Latex.
 
-Feel free to correct any Latex errors.
+Feel free to correct any errors you find.
 
 I'll try to update it frequently.
 
