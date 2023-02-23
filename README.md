@@ -12,4 +12,4 @@ I'll try to update it frequently.
 
 21.02.2023 -> Fixed some broken links and small details.
 
-23.02.2023 -> Added Swing as a technology used in RPG Adventure Game project.
+23.02.2023 -> Added Swing as a technology used in the RPG Adventure Game project.
