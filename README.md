@@ -17,3 +17,5 @@ I'll try to update it frequently.
 23.03.2024 -> Update GPA such that it includes 4th year score. 
 
 09.05.2024 -> Update CV with new relevant info.
+
+29.08.2024 -> Restructure Education & Work Experience and add most relevant Personal Projects.
